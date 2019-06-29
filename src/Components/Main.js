@@ -31,7 +31,7 @@ componentDidMount(){
                 <h1>{code}</h1>
           
            
-                <h1>Builder of Awesome</h1>
+                <h1>Lets build together</h1>
             
             </div>
         </div>
